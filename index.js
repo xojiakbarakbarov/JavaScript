@@ -17,4 +17,4 @@ let obj = {int: 1 , 3,4 };
 let arr = [0, 1, 2, 3, 4, 5];
 let func = function () {};
 console.log(arr[3]);
-console.log(int));
+console.log(int);
