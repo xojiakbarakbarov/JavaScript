@@ -58,7 +58,7 @@
 
 // array
 
-let arr = [4, 5, 7, 8, 9, 9, 7, 6, 54, 3];
-console.log(arr);
-console.log("______________________");
-console.log(arr[8]);
+// let arr = [4, 5, 7, 8, 9, 9, 7, 6, 54, 3];
+// console.log(arr);
+// console.log("______________________");
+// console.log(arr[8]);
