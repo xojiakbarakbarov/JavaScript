@@ -62,26 +62,3 @@
 // console.log(arr);
 // console.log("______________________");
 // console.log(arr[8]);
-
-for (
-  let i = 2;
-  i <= 100;
-  ++i //loop to check for each number in the range
-) {
-  let ctr = 0; //to maintain factor count
-
-  for (
-    let j = 2;
-    j <= parseInt(i / 2);
-    ++j //checking for factors
-  ) {
-    if (i % j == 0) {
-      ctr = 1; //increasing factor count when found
-    }
-  }
-
-  if (ctr == 0) {
-    //checking and printing prime numbers
-    console.log(i);
-  }
-}
