@@ -6,16 +6,18 @@
 
 // 1 dan 100 gacha bolgan barcha tub sonlarni topuvchi dastur>
 
-for (let i = 2; i <= 100; ++i) {
-  let ctr = 0;
+// for (let i = 2; i <= 100; ++i) {
+//   let ctr = 0;
 
-  for (let j = 2; j <= parseInt(i / 2); ++j) {
-    if (i % j == 0) {
-      ctr = 1;
-    }
-  }
+//   for (let j = 2; j <= parseInt(i / 2); ++j) {
+//     if (i % j == 0) {
+//       ctr = 1;
+//     }
+//   }
 
-  if (ctr == 0) {
-    console.log(i);
-  }
-}
+//   if (ctr == 0) {
+//     console.log(i);
+//   }
+// }
+
+//
