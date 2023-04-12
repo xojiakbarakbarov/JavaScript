@@ -1,20 +1,28 @@
-// let text =
-//   " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam libero ";
-// console.log(text);
-// premitive -  string , symbol ,  number ,  null , underfine , bigin;
-//  nonpremitive - object , array , function ;
-// let name1 = "xojiakbar";
-// let a = 121;
-// let b = Symbol(12);
-// console.log(name1, a, b);
-// let b = 12;
-// a = null;
-// b = undefined;
-// console.log(a + 1);
-// console.log(b + 1);
+// let a = 7;
+// switch (a) {
+//   case 1:
+//     console.log("dushanba");
+//     break;
+//   case 2:
+//     console.log("seshanba");
+//     break;
+//   case 3:
+//     console.log("chorshanba");
+//     break;
+//   case 4:
+//     console.log("payshanba");
+//     break;
+//   case 5:
+//     console.log("juma");
+//     break;
+//   case 6:
+//     console.log("shanba");
+//     break;
+//   case 7:
+//     console.log("yakshanba");
+//     break;
+// }
 
-// let obj = { int: " 1 , 3 , 4 " };
-// let arr = [0, 1, 2, 3, 4, 5];
-// let func = function () {};
-// console.log(arr[3]);
-// console.log(int);
+let a = 18856;
+for (sum = 0; a > 0; sum += a % 10, a = parseInt(a / 10)) {}
+console.log(sum);
