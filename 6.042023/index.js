@@ -1,9 +1,9 @@
-// // let a = 20;
-// // if (a > 19) {
-// //   console.log("katta");
-// // } else {
-// //   console.log("kichik");
-// // }
+// let a = 20;
+// if (a > 19) {
+//   console.log("katta");
+// } else {
+//   console.log("kichik");
+// }
 
 // let a = 123212;
 // for (let i = a % 10; i >= 0; i = parseInt(i / 10)) {
